@@ -1,6 +1,6 @@
 # Hi there 👋
 - My name is Ilya
-- Anime lovter <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnaERERwine03EG-rXLi_Wcbn6delusKbjkQ&s" width="30" height="24" alt="кастомный смайл" />
+- A <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnaERERwine03EG-rXLi_Wcbn6delusKbjkQ&s" width="30" height="24" alt="кастомный смайл" />
 - I’m currently studying at ITMO CS '29
 - Fun fact: my name starts with I
 
